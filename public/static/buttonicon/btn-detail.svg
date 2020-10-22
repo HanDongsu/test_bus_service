@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="22">
+    <path fill="#4FA0CB" fill-rule="evenodd" d="M0 0h42v22H0V0z"/>
+    <text x="10" y="15" fill="#FFF" font-family="Noto Sans CJK KR" font-size="11">
+        상세
+    </text>
+</svg>

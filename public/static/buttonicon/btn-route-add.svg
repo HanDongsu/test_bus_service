@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="54" viewBox="0 0 102 54">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#7B8499" d="M1 0H101V54H1z"/>
+        <path fill="#A1A5B6" d="M0 0H1V54H0zM101 0H102V54H101z"/>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="14">
+            <tspan x="11" y="33">+ 정류소 추가</tspan>
+        </text>
+    </g>
+</svg>

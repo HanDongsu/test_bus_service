@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="48" viewBox="0 0 1180 48">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#223152" d="M0 0H1180V48H0z"/>
+        <text fill="#FEFEFE" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="16">
+            <tspan x="544.528" y="21.072">배차하기</tspan>
+        </text>
+    </g>
+</svg>

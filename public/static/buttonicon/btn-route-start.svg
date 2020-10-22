@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="54" viewBox="0 0 60 54">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#7B8499" d="M0 0H60V54H0z"/>
+        <path fill="#A1A5B6" d="M0 0H1V54H0z"/>
+        <text fill="#FFF" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="14">
+            <tspan x="17" y="33">기점</tspan>
+        </text>
+    </g>
+</svg>
